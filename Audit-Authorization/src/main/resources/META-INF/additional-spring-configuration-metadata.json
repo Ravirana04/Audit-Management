@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "secretkey",
+    "type": "java.lang.String",
+    "description": "A description for 'secretkey'"
+  },
+  {
+    "name": "tokenduration",
+    "type": "java.lang.String",
+    "description": "A description for 'tokenduration'"
+  }
+]}
