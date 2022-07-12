@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+
+     - echo Entered the build phase...
+     - mvn DskipTests clean package
+  post_build:
+    commands:
+     - echo Build completed successfully
+artifacts:
+  files:
+      - target/audit-checklist
+  discard-paths: yes

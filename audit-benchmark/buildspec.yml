@@ -5,7 +5,7 @@ phases:
     commands:
 
      - echo Entered the build phase...
-     - mvn clean package
+     - mvn DskipTests clean package
   post_build:
     commands:
      - echo Build completed successfully
