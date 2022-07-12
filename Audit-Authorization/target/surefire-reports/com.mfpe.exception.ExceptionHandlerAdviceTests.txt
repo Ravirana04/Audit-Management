@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.mfpe.exception.ExceptionHandlerAdviceTests
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.929 s - in com.mfpe.exception.ExceptionHandlerAdviceTests
