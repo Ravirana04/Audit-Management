@@ -79,7 +79,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>POD1-Checklist-ms-mfpe</finalName>
+	<finalName>audit-checklist</finalName>
 		<plugins>
 		
 			<plugin>

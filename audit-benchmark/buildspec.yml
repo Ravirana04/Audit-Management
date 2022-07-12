@@ -11,5 +11,5 @@ phases:
      - echo Build completed successfully
 artifacts:
   files:
-      - target/POD1-benchmark-ms-mfpe.jar
+      - target/audit-benchmark.jar
   discard-paths: yes

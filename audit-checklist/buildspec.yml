@@ -11,5 +11,5 @@ phases:
      - echo Build completed successfully
 artifacts:
   files:
-      - target/POD1-Checklist-ms-mfpe
+      - target/audit-checklist
   discard-paths: yes

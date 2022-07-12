@@ -95,7 +95,7 @@
 	
 	
 	<build>
-	<finalName>POD1-Authorization-ms-mfpe</finalName>
+	<finalName>Audit-Authorization</finalName>
 
 		<plugins>
 			<plugin>

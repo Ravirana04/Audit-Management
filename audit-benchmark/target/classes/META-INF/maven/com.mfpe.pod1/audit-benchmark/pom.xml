@@ -79,7 +79,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>POD1-benchmark-ms-mfpe</finalName>
+	<finalName>audit-benchmark</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

@@ -11,5 +11,5 @@ phases:
      - echo Build completed successfully
 artifacts:
   files:
-      - target/POD1-Severity-ms-mfpe.jar
+      - target/audit-severity.jar
   discard-paths: yes

@@ -11,5 +11,5 @@ phases:
      - echo Build completed successfully
 artifacts:
   files:
-      - target/POD1-Authorization-ms-mfpe.jar
+      - target/Audit-Authorization.jar
   discard-paths: yes
